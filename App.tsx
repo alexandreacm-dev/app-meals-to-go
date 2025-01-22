@@ -11,12 +11,12 @@ import useGoogleFonts from './src/hooks/useGoogleFonts';
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: 'AIzaSyBO1f2LnbzE_6AFyLQS3cdb9_PfHVYktu0',
+  apiKey: '0',
   authDomain: 'mealstogo-92344.firebaseapp.com',
   projectId: 'mealstogo-92344',
   storageBucket: 'mealstogo-92344.appspot.com',
   messagingSenderId: '482795193523',
-  appId: '1:482795193523:web:12693f9c91d6557f1a9cc6',
+  appId: '',
 };
 
 if (!getApps().length) {
